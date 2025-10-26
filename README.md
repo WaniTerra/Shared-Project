@@ -38,7 +38,7 @@ To successfully run this application on your local machine, please follow these 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [DEPO_ADRESINIZI_BURAYA_YAZIN]
+    git clone [https://github.com/WaniTerra/Shared-Project.git]
     ```
 2.  **Database Configuration:** Ensure you have a running **MySQL** instance and configure the connection details (username, password, database name) in the relevant project configuration file (e.g., `application.properties` or similar).
 3.  **Run the Application:** The project must be executed starting from the **`MainFrame`** file.
